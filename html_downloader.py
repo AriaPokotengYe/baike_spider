@@ -1,8 +1,4 @@
-'''
-Created on 2018年3月15日
 
-@author: 50181
-'''
 from urllib import request
 
 

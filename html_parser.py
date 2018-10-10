@@ -1,9 +1,4 @@
 #coding=utf-8 
-'''
-Created on 2018年3月15日
-
-@author: 50181
-'''
 from bs4 import BeautifulSoup
 import re
 import urllib.parse

@@ -1,10 +1,5 @@
-'''
-Created on 2018年3月15日
 
-@author: 50181
-'''
-from baike_spider import url_manager, html_downloader, html_outputer,\
-    html_parser
+import url_manager, html_downloader, html_outputer,html_parser
 
 
 

@@ -1,8 +1,3 @@
-'''
-Created on 2018年3月15日
-
-@author: 50181
-'''
 
 
 class UrlManager(object):
